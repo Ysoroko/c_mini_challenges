@@ -9,3 +9,4 @@ September| October |
 [3) 24 09 ft_to_print_or_not_to_print](https://github.com/Ysoroko/c_mini_challenges/blob/main/3_24_09_ft_to_print_or_not_to_print.MD) | |
 [3) 24 09 ft_sign](https://github.com/Ysoroko/c_mini_challenges/blob/main/3_24_09_ft_sign.MD) | |
 [3) 24 09 ft_sign_char](https://github.com/Ysoroko/c_mini_challenges/blob/main/3_24_09_ft_sign_char.MD) | |
+[3) 24 09 ft_sign_char_print](https://github.com/Ysoroko/c_mini_challenges/blob/main/3_24_09_ft_sign_char_print.MD) | |
