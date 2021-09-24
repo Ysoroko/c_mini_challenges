@@ -7,4 +7,4 @@ Allowed functions: | write
 * The function print the character '+' if its argument is positive, '-' if it's negative and '0' if it's a zero
 * The printing must be followed by a new line
 * The function will be prototyped as follows:
-  `void ft_sign(int n)`
+  `void ft_sign_char_print(int n)`
