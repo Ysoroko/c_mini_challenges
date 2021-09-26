@@ -1,5 +1,5 @@
 # c_mini_challenges
-Everyday tests in C
+Everyday mini tests in C
 
 September| October |
 -------------|-------------|
