@@ -16,3 +16,4 @@ September| October |
 [5) 26 09 ft_ifs](https://github.com/Ysoroko/c_mini_challenges/blob/main/5_26_09_ft_ifs.MD) | |
 [5) 26 09 ft_if_zeroes](https://github.com/Ysoroko/c_mini_challenges/blob/main/5_26_09_ft_if_zeroes.MD) | |
 [6) 27 09 ft_if_threes](https://github.com/Ysoroko/c_mini_challenges/blob/main/6_27_09_ft_if_threes.MD) | |
+[6) 27 09 ft_if_str_has_D_char](https://github.com/Ysoroko/c_mini_challenges/blob/main/6_27_09_ft_if_str_has_D_char.MD) | |
