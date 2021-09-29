@@ -1,4 +1,4 @@
-Turn-in directory: | 3_24_09_ft_sign_string_print |
+Turn-in directory: | 8_24_09_ft_sign_string_print |
 -------------|-------------|
 Files to turn-in: | ft_sign_string_print.c |
 Allowed functions: | write
