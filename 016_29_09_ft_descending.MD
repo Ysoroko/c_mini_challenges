@@ -5,7 +5,7 @@ Allowed functions: | printf
 
 * Write the function **ft_descending** that will take an integer as an argument
 * The function must print all the integers between its argument and 0
-* The printing must start with the argument and be in descending order
+* The printing must start with the argument and be in **descending order**
 * If its argument is less than 0, it must print "Already lower than 0", followed by a newline
 * Each integer printed must be followed by a newline
 * The function must be prototyped as follows:
@@ -14,7 +14,7 @@ Allowed functions: | printf
    
 * Examples:
   ``` C
-  //Call:
+  // Call:
   ft_descending(2)
   ```
   
@@ -26,7 +26,7 @@ Allowed functions: | printf
   ```
   
   ``` C
-  //Call:
+  // Call:
   ft_descending(-3)
   ```
   
@@ -36,7 +36,7 @@ Allowed functions: | printf
   ```
   
   ```C
-  //Call:
+  // Call:
   ft_descending(0)
   ```
   
