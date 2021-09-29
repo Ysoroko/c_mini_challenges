@@ -18,4 +18,6 @@ September| October |
 [13) 27 09 ft_if_threes](https://github.com/Ysoroko/c_mini_challenges/blob/main/13_27_09_ft_if_threes.MD) | |
 [14) 27 09 ft_if_str_has_D_char](https://github.com/Ysoroko/c_mini_challenges/blob/main/14_27_09_ft_if_str_has_D_char.MD) | |
 [15) 28 09 ft_whiles](https://github.com/Ysoroko/c_mini_challenges/blob/main/15_28_09_ft_whiles.MD) | |
+[16) 29 09 ft_descending](https://github.com/Ysoroko/c_mini_challenges/blob/main/016_29_09_ft_descending.MD) | |
+[17) 29 09 ft_until_zero](https://github.com/Ysoroko/c_mini_challenges/blob/main/017_29_09_ft_until_zero.MD) | |
 
