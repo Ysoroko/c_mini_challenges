@@ -1,4 +1,4 @@
-Turn-in directory: | 6_27_09_ft_if_str_has_D_char|
+Turn-in directory: | 14_27_09_ft_if_str_has_D_char|
 -------------|-------------|
 Files to turn-in: | ft_if_str_has_D_char.c |
 Allowed functions: | none
