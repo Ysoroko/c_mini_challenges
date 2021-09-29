@@ -1,4 +1,4 @@
-Turn-in directory: | 5_26_09_ft_if_zeroes |
+Turn-in directory: | 12_26_09_ft_if_zeroes |
 -------------|-------------|
 Files to turn-in: | ft_if_zeroes.c |
 Allowed functions: | none
