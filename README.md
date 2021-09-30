@@ -20,4 +20,5 @@ September| October |
 [15) 28 09 ft_whiles](https://github.com/Ysoroko/c_mini_challenges/blob/main/015_28_09_ft_whiles.MD) | |
 [16) 29 09 ft_descending](https://github.com/Ysoroko/c_mini_challenges/blob/main/016_29_09_ft_descending.MD) | |
 [17) 29 09 ft_until_zero](https://github.com/Ysoroko/c_mini_challenges/blob/main/017_29_09_ft_until_zero.MD) | |
+[18) 30 09 ft_odd_numbers](https://github.com/Ysoroko/c_mini_challenges/blob/main/018_30_09_ft_odd_numbers.MD) | |
 
