@@ -11,6 +11,7 @@ Allowed functions: | none
   - If the character is "\*", multiply the first integer by the second (a \* b)
   - If the character is "/", divide the first integer by the second (a / b)
   - If the character is "%", return the rest of the division a / b
+  - If the character is different from those mentionned above, return 0
 
    `int  ft_calculator(int a, char operation, int b);`
    
@@ -21,5 +22,6 @@ Allowed functions: | none
   ft_calculator(9, '*', 5); //returns 45
   ft_calculator(9, '/', 5); //returns 1
   ft_calculator(9, '%', 5); //returns 4
+  ft_calculator(9, 'a', 5); //returns 0
   
   ```
