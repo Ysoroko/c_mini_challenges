@@ -3,7 +3,7 @@ Everyday mini tests in C
 
 September| October |
 -------------|-------------|
-[1) 22 09 ft_square](https://github.com/Ysoroko/c_mini_challenges/blob/main/001_22_09_ft_square.MD) |  |
+[1) 22 09 ft_square](https://github.com/Ysoroko/c_mini_challenges/blob/main/001_22_09_ft_square.MD) | [20) 01 10 ft_descriptive_hundred](https://github.com/Ysoroko/c_mini_challenges/blob/main/020_01_10_ft_descriptive_hundred.MD) |
 [2) 22 09 ft_mushka](https://github.com/Ysoroko/c_mini_challenges/blob/main/002_22_09_ft_mushka.MD) |  |
 [3) 23 09 ft_first_n_chars](https://github.com/Ysoroko/c_mini_challenges/blob/main/003_23_09_ft_first_n_chars.MD) | |
 [4) 24 09 ft_to_print_or_not_to_print](https://github.com/Ysoroko/c_mini_challenges/blob/main/004_24_09_ft_to_print_or_not_to_print.MD) | |
@@ -21,4 +21,5 @@ September| October |
 [16) 29 09 ft_descending](https://github.com/Ysoroko/c_mini_challenges/blob/main/016_29_09_ft_descending.MD) | |
 [17) 29 09 ft_until_zero](https://github.com/Ysoroko/c_mini_challenges/blob/main/017_29_09_ft_until_zero.MD) | |
 [18) 30 09 ft_odd_numbers](https://github.com/Ysoroko/c_mini_challenges/blob/main/018_30_09_ft_odd_numbers.MD) | |
+[19) 30 09 ft_calculator](https://github.com/Ysoroko/c_mini_challenges/blob/main/019_30_09_ft_calculator.MD) | |
 
