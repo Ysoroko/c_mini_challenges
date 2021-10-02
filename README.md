@@ -3,8 +3,8 @@ Everyday mini tests in C
 
 September| October |
 -------------|-------------|
-[1) 22 09 ft_square](https://github.com/Ysoroko/c_mini_challenges/blob/main/001_22_09_ft_square.MD) | [20) 01 10 ft_descriptive_hundred](https://github.com/Ysoroko/c_mini_challenges/blob/main/020_01_10_ft_descriptive_hundred.MD) |
-[2) 22 09 ft_mushka](https://github.com/Ysoroko/c_mini_challenges/blob/main/002_22_09_ft_mushka.MD) |  |
+[1) 22 09 ft_square](https://github.com/Ysoroko/c_mini_challenges/blob/main/001_22_09_ft_square.MD) | [20) 01 10 ft_descriptive_hundred](https://github.com/Ysoroko/c_mini_challenges/blob/main/021_02_10_ft_descriptive_int.MD) |
+[2) 22 09 ft_mushka](https://github.com/Ysoroko/c_mini_challenges/blob/main/002_22_09_ft_mushka.MD) |  [21) 02 10 ft_descriptive_int](https://github.com/Ysoroko/c_mini_challenges/blob/main/020_01_10_ft_descriptive_hundred.MD) |
 [3) 23 09 ft_first_n_chars](https://github.com/Ysoroko/c_mini_challenges/blob/main/003_23_09_ft_first_n_chars.MD) | |
 [4) 24 09 ft_to_print_or_not_to_print](https://github.com/Ysoroko/c_mini_challenges/blob/main/004_24_09_ft_to_print_or_not_to_print.MD) | |
 [5) 24 09 ft_sign](https://github.com/Ysoroko/c_mini_challenges/blob/main/005_24_09_ft_sign.MD) | |
