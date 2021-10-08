@@ -19,7 +19,7 @@ ft_decrement_four_ret: [0]
   ```C
   #include <stdio.h>
 
-char ft_decrement_one(int n)
+int ft_decrement_one(int n)
 {
 	return_value = n;
 	n = n - 1;
