@@ -8,11 +8,11 @@ Allowed functions: | none
 <endl>
   
   ```Bash
-  2
-  2
-  4
-  3
-  -2
+d: [2]
+ft_digit_to_char_ret: [2]
+ft_double_value_ret: [4]
+ft_my_increment_ret: [3]
+ft_opposite_sign_ret: [-2]
   ```
 
 <endl>
