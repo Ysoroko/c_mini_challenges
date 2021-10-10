@@ -41,7 +41,7 @@ int ft_my_increment(int n)
 {
     int returned_value;
 	
-	// LINE TO COMPLETE
+    // LINE TO COMPLETE
     return (returned_value);
 }
 
