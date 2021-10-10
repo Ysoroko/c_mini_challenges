@@ -1,66 +1,80 @@
-Turn-in directory: | 023_08_10_ft_decrements |
+Turn-in directory: | 023_07_10_ft_functions |
 -------------|-------------|
-Files to turn-in: | ft_decrements.c |
+Files to turn-in: | ft_functions.c |
 Allowed functions: | none
-* The code below is incomplete and won't compile!
-* Fix it without removing anything from it so that it compiles and produces the following output:
+* In the code below you have an incomplete couple of functions
+* Replace only the commented out lines inside the functions scope to produce the following output:
+``` Bash
+2
+2
+4
+3
+-2
+```
 
-<endl>
-  
-  ```Bash
-ft_decrement_one_ret: [1]
-ft_decrement_two_ret: [0]
-ft_decrement_three_ret: [1]
-ft_decrement_four_ret: [0]
-  ```
+``` C
+#include <stdio.h>
 
-<endl>
-  
-  ```C
-  #include <stdio.h>
-
-int ft_decrement_one(int n)
+/// This function will transform its digit argument
+/// to a character and return the character equivalent
+/// Example: ft_digit_to_char(9) = '9'
+char ft_digit_to_char(int n)
 {
-	return_value = n;
-	n = n - 1;
+    char returned_char;
 
-	return (return_value);
+    // LINE TO COMPLETE
+    return (returned_char);
 }
 
-int ft_decrement_two(int n)
+/// This function will return twice the value of its argument
+/// Example: ft_double_value(9) = 18
+int ft_double_value(int n)
 {
-	n = n - 1;
-	return_value = n;
+    int returned_value;
 
-	return (return_value);
+    // LINE TO COMPLETE
+    return (returned_value);
 }
 
-int ft_decrement_three(int n)
+/// This function return its argument incremented (n++)
+int ft_my_increment(int n)
 {
-	return_value = n--;
-
-	return (return_value);
+    int returned_value;
+	
+	// LINE TO COMPLETE
+    return (returned_value);
 }
 
-int ft_decrement_four(int n)
+/// This function return its argument but with opposite sign
+/// Example: ft_double_value(9) = -9
+/// Example: ft_double_value(-9) = 9
+int ft_opposite_sign(int n)
 {
-	return_value = --n;
+    int returned_value;
 
-	return (return_value);
+    // LINE TO COMPLETE
+    return (returned_value);
 }
-
 
 int main(void)
 {
-    ft_decrement_one_ret = ft_decrement_one(d);
-    ft_decrement_two_ret = ft_decrement_two(d);
-    ft_decrement_three_ret = ft_decrement_three(d);
-    ft_decrement_four_ret = ft_decrement_four(d);
-    printf("ft_decrement_one_ret: [%d]\n", ft_decrement_one_ret);	// 1
-    printf("ft_decrement_two_ret: [%d]\n", ft_decrement_two_ret);	// 0
-    printf("ft_decrement_three_ret: [%d]\n", ft_decrement_three_ret);	// 1
-    printf("ft_decrement_four_ret: [%d]\n", ft_decrement_four_ret);	// 0
+    int d;
+    char ft_digit_to_char_ret;
+    int ft_double_value_ret;
+    int ft_my_increment_ret;
+    int ft_opposite_sign_ret;
+
+    d = 2;
+    // LINE TO COMPLETE
+    // LINE TO COMPLETE
+    // LINE TO COMPLETE
+    // LINE TO COMPLETE
+    printf("d: [%d]\n", d);                                       // 2
+    printf("ft_digit_to_char_ret: [%c]\n", ft_digit_to_char_ret); // 2
+    printf("ft_double_value_ret: [%d]\n", ft_double_value_ret);   // 4
+    printf("ft_my_increment_ret: [%d]\n", ft_my_increment_ret);   // 3
+    printf("ft_opposite_sign_ret: [%d]\n", ft_opposite_sign_ret); // -2
 
     return (0);
 }
-  ```
+```
