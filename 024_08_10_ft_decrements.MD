@@ -1,4 +1,4 @@
-Turn-in directory: | 023_08_10_ft_decrements |
+Turn-in directory: | 024_08_10_ft_decrements |
 -------------|-------------|
 Files to turn-in: | ft_decrements.c |
 Allowed functions: | none
