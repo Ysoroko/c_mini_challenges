@@ -7,13 +7,14 @@ Allowed functions: | none
 ```Bach
 -911, what's your emergency?
 -This is the captain of the precinct, couldn't 911 help you?
--This is out of the commisionner's jurisdiction, I'll transfer you.
+-This is out of the commissionner's jurisdiction, I'll transfer you.
 -FBI doesn't have the necessary ressources, listen just talk to the CIA, okay?
 -Wow this seems too important for the CIA to handle. I'll give you homeland security.
 -I'll call the president right now. Please stay on the line.
 -Seriously? Okay Timmy I'll send you the wifi password... Again...
 The secret code is: 2147483647
 ```
+* Also, only one call of function per line is allowed
 
 ```C
 #include <stdio.h>
@@ -42,9 +43,9 @@ int		ft_fbi(void)
 	printf("-FBI doesn't have the necessary ressources, listen just talk to the CIA, okay?");
 }
 
-int	ft_commisionner(void)
+int	ft_commissionner(void)
 {
-	printf("-This is out of the commisionner's jurisdiction, I'll transfer you.\n")
+	printf("-This is out of the commissionner's jurisdiction, I'll transfer you.\n")
 }
 
 int	ft_captain(void)
