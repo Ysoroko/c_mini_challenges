@@ -1,5 +1,5 @@
 # c_mini_challenges
-Everyday mini tests in C
+Tests to teach C basics
 
 September| October |
 -------------|-------------|
