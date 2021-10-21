@@ -1,4 +1,4 @@
-Turn-in directory: | 029_21_10_ft_strchr|
+Turn-in directory: | 030_21_10_ft_strchr|
 -------------|-------------|
 Files to turn-in: | ft_strchr.c |
 Allowed functions: | none
