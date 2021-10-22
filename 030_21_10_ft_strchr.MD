@@ -7,5 +7,5 @@ Allowed functions: | none
 
 * The function must be prototyped as follows:
    ```C
-  char *strchr(const char *s, int c);
+  char *ft_strchr(const char *s, int c);
    ```
