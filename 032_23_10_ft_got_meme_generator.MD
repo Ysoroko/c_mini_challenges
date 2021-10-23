@@ -10,7 +10,7 @@ Allowed functions: | none
 * Write a function called **ft_got_meme_generator** that will take a string as an argument.
 * It must be prototyped as follows:
   ``` C
-  void	ft_daenerys_meme_generator(char	*str)
+  void	ft_got_meme_generator(char *str)
   ```
 * It will replace every occurence of letters 'e', 'a' and 'o' in that string by the vowel 'i'
 * For example, the following main function
