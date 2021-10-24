@@ -5,6 +5,18 @@ Allowed functions: | none
 
 * The code below is wrong and will not compile
 ```C
+#include <stdio.h>
+
+void	ft_print_values(int comparison, int my_int, char my_char, char *my_str)
+{
+	printf("\n----------------------------------\n");
+	printf("Comparison:\t[%d]\n", comparison);
+	printf("My_int:\t\t[%d]\n", my_int);
+	printf("My_char:\t[%c]\n", my_char);
+	printf("My_string:\t[%s]\n", my_str);
+	printf("----------------------------------\n\n");
+}
+
 int	main(void)
 {
 	// Initialization of variables
