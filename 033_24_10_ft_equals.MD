@@ -20,8 +20,8 @@ void	ft_print_values(int comparison, int my_int, char my_char, char *my_str)
 int	main(void)
 {
 	// Initialization of variables
-	int		comparison_result;
-	int		my_int;
+	int	comparison_result;
+	int	my_int;
 	char	my_char;
 	char	*my_string;
 
