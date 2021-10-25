@@ -17,7 +17,7 @@ September| October |
 [12) 26 09 ft_if_zeroes](https://github.com/Ysoroko/c_mini_challenges/blob/main/012_26_09_ft_if_zeroes.MD) | [31) 22 10 ft_ptr](https://github.com/Ysoroko/c_mini_challenges/blob/main/031_22_10_ft_ptr.MD) |
 [13) 27 09 ft_if_threes](https://github.com/Ysoroko/c_mini_challenges/blob/main/013_27_09_ft_if_threes.MD) | [32) 23 10 ft_got_meme_generator](https://github.com/Ysoroko/c_mini_challenges/blob/main/032_23_10_ft_got_meme_generator.MD) |
 [14) 27 09 ft_if_str_has_D_char](https://github.com/Ysoroko/c_mini_challenges/blob/main/014_27_09_ft_if_str_has_D_char.MD) | [33) 24 10 ft_equals](https://github.com/Ysoroko/c_mini_challenges/blob/main/033_24_10_ft_equals.MD) |
-[15) 28 09 ft_whiles](https://github.com/Ysoroko/c_mini_challenges/blob/main/015_28_09_ft_whiles.MD) | |
+[15) 28 09 ft_whiles](https://github.com/Ysoroko/c_mini_challenges/blob/main/015_28_09_ft_whiles.MD) | [34) 25 10 ft_comp_ptr](https://github.com/Ysoroko/c_mini_challenges/blob/main/034_25_10_ft_comp_ptr.MD) |
 [16) 29 09 ft_descending](https://github.com/Ysoroko/c_mini_challenges/blob/main/016_29_09_ft_descending.MD) | |
 [17) 29 09 ft_until_zero](https://github.com/Ysoroko/c_mini_challenges/blob/main/017_29_09_ft_until_zero.MD) | |
 [18) 30 09 ft_odd_numbers](https://github.com/Ysoroko/c_mini_challenges/blob/main/018_30_09_ft_odd_numbers.MD) | |
