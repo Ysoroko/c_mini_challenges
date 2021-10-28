@@ -20,6 +20,6 @@ September| October |
 [15) 28 09 ft_whiles](https://github.com/Ysoroko/c_mini_challenges/blob/main/015_28_09_ft_whiles.MD) | [34) 25 10 ft_comp_ptr](https://github.com/Ysoroko/c_mini_challenges/blob/main/034_25_10_ft_comp_ptr.MD) |
 [16) 29 09 ft_descending](https://github.com/Ysoroko/c_mini_challenges/blob/main/016_29_09_ft_descending.MD) | [35) 26 10 ft_isspace](https://github.com/Ysoroko/c_mini_challenges/blob/main/035_26_10_ft_isspace.MD) |
 [17) 29 09 ft_until_zero](https://github.com/Ysoroko/c_mini_challenges/blob/main/017_29_09_ft_until_zero.MD) | [36) 26 10 ft_write_first_word](https://github.com/Ysoroko/c_mini_challenges/blob/main/036_26_10_ft_write_first_word.MD) |
-[18) 30 09 ft_odd_numbers](https://github.com/Ysoroko/c_mini_challenges/blob/main/018_30_09_ft_odd_numbers.MD) | |
+[18) 30 09 ft_odd_numbers](https://github.com/Ysoroko/c_mini_challenges/blob/main/018_30_09_ft_odd_numbers.MD) | [37) 28 10 ft_write_after_char](https://github.com/Ysoroko/c_mini_challenges/blob/main/037_28_10_ft_write_after_char.MD) |
 [19) 30 09 ft_calculator](https://github.com/Ysoroko/c_mini_challenges/blob/main/019_30_09_ft_calculator.MD) | |
 
