@@ -22,5 +22,5 @@ Allowed functions: | write
   ft_write_first_word("\r\r\r\r"); //will write "\n" on standard output stream
   ft_write_first_word(" Bon jour"); //will write "Bon\n" on standard output stream
   ft_write_first_word(" Bonjour"); //will write "Bonjour\n" on standard output stream
-  ft_write_first_word("NULL"); //will write "Error\n" on standard error stream
+  ft_write_first_word(NULL); //will write "Error\n" on standard error stream
   ```
