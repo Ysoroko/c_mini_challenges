@@ -4,7 +4,7 @@ Tests to teach C basics
 September| October | November |
 -------------|-------------|-------------|
 [1) 22 09 ft_square](https://github.com/Ysoroko/c_mini_challenges/blob/main/001_22_09_ft_square.MD) | [20) 01 10 ft_descriptive_hundred](https://github.com/Ysoroko/c_mini_challenges/blob/main/020_01_10_ft_descriptive_hundred.MD) | [38) 03 11 ft_write_backwards](https://github.com/Ysoroko/c_mini_challenges/blob/main/038_03_11_ft_write_backwards.MD) |
-[2) 22 09 ft_mushka](https://github.com/Ysoroko/c_mini_challenges/blob/main/002_22_09_ft_mushka.MD) |  [21) 02 10 ft_descriptive_int](https://github.com/Ysoroko/c_mini_challenges/blob/main/021_02_10_ft_descriptive_int.MD) |
+[2) 22 09 ft_mushka](https://github.com/Ysoroko/c_mini_challenges/blob/main/002_22_09_ft_mushka.MD) |  [21) 02 10 ft_descriptive_int](https://github.com/Ysoroko/c_mini_challenges/blob/main/021_02_10_ft_descriptive_int.MD) | [39) 03 11 ft_write_one_in_two_chars](https://github.com/Ysoroko/c_mini_challenges/blob/main/039_06_11_ft_write_one_in_two_chars.MD) |
 [3) 23 09 ft_first_n_chars](https://github.com/Ysoroko/c_mini_challenges/blob/main/003_23_09_ft_first_n_chars.MD) | [22) 02 10 ft_descriptive_sum](https://github.com/Ysoroko/c_mini_challenges/blob/main/022_02_10_ft_descriptive_sum.MD) |
 [4) 24 09 ft_to_print_or_not_to_print](https://github.com/Ysoroko/c_mini_challenges/blob/main/004_24_09_ft_to_print_or_not_to_print.MD) | [23) 07 10 ft_functions](https://github.com/Ysoroko/c_mini_challenges/blob/main/023_07_10_ft_functions.MD) 
 [5) 24 09 ft_sign](https://github.com/Ysoroko/c_mini_challenges/blob/main/005_24_09_ft_sign.MD) |  [24) 08 10 ft_decrements](https://github.com/Ysoroko/c_mini_challenges/blob/main/024_08_10_ft_decrements.MD) |
