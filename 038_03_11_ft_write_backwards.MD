@@ -3,7 +3,7 @@ Turn-in directory: | 038_03_11_ft_write_backwards|
 Files to turn-in: | ft_write_backwards.c |
 Allowed functions: | write
 
-* Write the function **ft_write_backwards** that takes a string and a character as arguments
+* Write the function **ft_write_backwards** that takes a string as its argument
 * The function must write the string backwards on the standard output stream, followed by a newline
 * If the string argument is a null pointer, the function must write "NULL" on standard output stream, followed by a newline
 * The function must be prototyped as follows:
