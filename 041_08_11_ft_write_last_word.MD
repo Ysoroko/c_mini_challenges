@@ -24,4 +24,5 @@ Allowed functions: | write
   ft_write_last_word(" Bon jour"); //will write "jour" on standard output stream
   ft_write_last_word("   Bonjour"); //will write "Bonjour" on standard output stream
   ft_write_last_word("Bonjour  "); //will write "Bonjour" on standard output stream
+  ft_write_last_word("  abra ka dabra  "); //will write "dabra" on standard output stream
   ```
