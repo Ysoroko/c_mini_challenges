@@ -28,6 +28,7 @@ Allowed functions: | none
   * "-1000000000000000000000"
   * "abc18"
   * "+4294967296"
+  * "+-+-+-+-+-1234567890+-+-+-+-+-"
 * If its argument is a null pointer, it must return 0
 * The overflows must work as in real atoi function
    
