@@ -4,6 +4,7 @@ Files to turn-in: | ft_print_args_backwards.c |
 Allowed functions: | write
 
 * Write a program which when executed will print all its arguments in reverse order
+* The output should be followed by a newline character
 
 * Examples:
   ```Bash
