@@ -5,7 +5,7 @@ Allowed functions: | printf, rand, srand, time
 
 * Write a program which will output a random integer in a determined range
 * The range is [1st argument of the program as int; 2nd argument of the program as int]
-* Tip: you have already coded a useful function to convert a string to an int
+* **Tip**: you have already coded a useful function to convert a string to an int
 * If the program doesn't have enough or has too many arguments, you should output "Error"
 * If the first argument is bigger than (or equal to) the second, you should output "Error"
 * All output should be followed by a newline character
