@@ -14,6 +14,7 @@ Allowed functions: | printf, rand, srand, time
   ```Bash
   ./your_program_name a b c
   ./your_program_name 14 56
+  ./your_program_name 56 14
   ./your_program_name -1 1
   
   ```
@@ -21,5 +22,6 @@ Allowed functions: | printf, rand, srand, time
   ```Bash
   Error
   32
+  Error
   0
   ```
