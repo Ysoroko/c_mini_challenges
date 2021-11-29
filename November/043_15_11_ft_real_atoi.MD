@@ -4,7 +4,7 @@ Files to turn-in: | ft_real_atoi.c |
 Allowed functions: | none
 
 * Write the function **ft_real_atoi** that takes a string as an argument
-* It will reproduce the exact behavious of the <stdlib.h> function atoi
+* It will reproduce the exact behaviour of the <stdlib.h> function atoi
 * The function must be prototyped as follows:
    ```C
    int ft_real_atoi(char *str);
