@@ -24,7 +24,6 @@ Allowed functions: | none
   ft_atoi_base("f", "abcdefghijk"); //will return 5
   ft_atoi_base("10", "0123456789"); //will return 10
   ft_atoi_base("ba", "abcdefghij"); //will return 10
-  ft_atoi_base("10", "9876543210"); //will return 89
   ft_atoi_base("1C8", "0123456789ABCDEF"); //will return 456
   ft_atoi_base("111001000", "01"); //will return 456
   ft_atoi_base("5", "44"); //will return 0
