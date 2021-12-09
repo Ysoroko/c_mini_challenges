@@ -12,7 +12,7 @@ Allowed functions: | open, read, close, printf
   
   For any of the following cases your program must return 1 (and print nothing!):
   - You have a wrong number of arguments
-  - The number of characters you need to read is 0 or its string representation is unconvertible to a number
+  - The number of characters you need to read is 0 or bigger than 1024
   - It's impossible to open the given file
   - A call to "close" function fails
 
@@ -36,9 +36,9 @@ Allowed functions: | open, read, close, printf
 
 
 * Tips:
-  - You can declare a string used in "read" function with
+  - Since your program doesn't read more than 1024 characters, you can declare a string used in "read" function with
     ```C
-    char  str[1024];
+    char  buf[1024];
     ```
   - The files can be removed by using the command "rm **file_name**" (be careful with it!)
-  - You must compile your code using the command "gcc -Wall -Wextra -Werror ft_read_n_chars.c" 
+  - You must compile your code using gcc with flags "-Wall -Wextra -Werror" 
