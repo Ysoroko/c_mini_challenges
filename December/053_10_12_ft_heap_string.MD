@@ -43,11 +43,14 @@ int main(void)
 ```
 
 * The function must return a string containing "Just a string"
-* You cannot modify the main function!
 * The provided program, when compiled with your "ft_heap_function" must print "Just a string" followed by a newline on standard output
+* You cannot modify the main function!
 * You must submit your function along with the provided main function
-* Your code must be compilable with -Wall -Wextra -Werror gcc flags
-* Bonus:
-  - Remember [this exercice you did?](https://github.com/Ysoroko/c_mini_challenges/blob/main/September/002_22_09_ft_mushka.MD)
+* Your code must be compilable with
+```Bash
+gcc -Wall -Wextra -Werror ft_heap_string.c
+```
+#### Bonus:
+  - Remember [this exercice](https://github.com/Ysoroko/c_mini_challenges/blob/main/September/002_22_09_ft_mushka.MD) you did?
   - There is something wrong with it too, isn't there?
   - Can you fix it?
