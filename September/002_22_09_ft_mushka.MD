@@ -10,3 +10,7 @@ Allowed functions: | none |
 * The function must be prototyped as follows:
 
   `char *ft_mushka(void);`
+  
+#### Bonus
+* If you're coming from the future, you know that without any allowed functions this exercice doesn't make much sense
+* Can you correct it by using only one unauthorized function?
