@@ -45,6 +45,7 @@ int main(void)
 * The function must return a string containing "Just a string"
 * The provided program, when compiled with your "ft_heap_function" must print "Just a string" followed by a newline on standard output
 * You cannot modify the main function!
+* You cannot use global variables!
 * You must submit your function along with the provided main function
 * Your code must be compilable with
 ```Bash
