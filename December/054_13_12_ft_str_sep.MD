@@ -29,3 +29,5 @@ you$
 split$
 me?$
 ```
+* You cannot modify anything in the code apart from the three specified lines of code!
+* One instruction per line!
