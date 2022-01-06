@@ -8,5 +8,5 @@ Allowed functions: | malloc
 
 * The function must be prototyped as follows:
    ```C
-   char *ft_strdup(char *str);
+   char *ft_strdup(char *src);
    ```
