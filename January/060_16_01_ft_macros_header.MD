@@ -4,11 +4,12 @@ Files to turn-in: | ft_macros_header.h |
 Allowed functions: | none
 
 * Create a header file named "ft_macros_header.h"
-* The file must be filled with content that will allow you to compile '.c' file with the following content:
+* Inside "ft_macros_header.h" you will need to define two macros, MACRO_ONE and MACRO_TWO
+* The header file must let you compile a ".c" file with the following content:
 
 ```C
 #include <stdio.h>
-#include "header.h"
+#include "ft_macros_header.h"
 
 int ft_strlen(char *str)
 {
