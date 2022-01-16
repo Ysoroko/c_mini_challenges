@@ -58,7 +58,7 @@ int main(void)
 }
 ```
 
-* When compiled and executed you need to produce the following result:
+* When compiled and executed, the file with the content above must produce the following result:
 
 ``` Bash
 one: [8]
