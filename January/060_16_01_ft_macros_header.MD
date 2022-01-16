@@ -66,5 +66,5 @@ diff: [3]
 fct: [1]
 ```
 
-* You cannot modify the provided contents of the ".c" file
+* ⚠️ You cannot modify the C code above
 * Your header file must be protected against the double inclusion
