@@ -3,7 +3,7 @@ Turn-in directory: | 061_18_01_ft_point_in_rectangle |
 Files to turn-in: | ft_point_in_rectangle.c |
 Allowed functions: | none
 
-* Write a function **ft_point_in_rectangle** that will take a **struct s_rectangle** and a **t_point** as arguments
+* Write a function **ft_point_in_rectangle** that will take a **struct s_rectangle** and a **t_point** as arguments (wtf are these, right?)
 * The function must be prototyped as follows:
 ```C
 int ft_point_in_rectangle(struct s_rectangle rect, t_point pt)
