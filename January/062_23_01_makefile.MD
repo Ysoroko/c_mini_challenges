@@ -32,7 +32,7 @@ NAME			=	tchoo_tchoo
 # Here, BOLD_PURPLE is a variable name (defined higher, in "Colors" section)
 # $(BOLD_PUPRLE) is a way to replace the variable name by its value "\033[1;35m"
 # So $(VARIABLE_NAME) will simply be replaced by the value of the VARIABLE_NAME when executed
-WELCOME1			=	echo "$(BOLD_PURPLE)❤️ Welcome to the Makefile introduction!\n$(NO_COLOR)"
+WELCOME1		=	echo "$(BOLD_PURPLE)❤️ Welcome to the Makefile introduction!\n$(NO_COLOR)"
 
 COMPILE			=	gcc
 
