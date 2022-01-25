@@ -43,7 +43,7 @@ EXE_NAME		=	hey_i_am_your_executable
 # In the "gcc" command, "-o" followed by a string will allow you to name your executable differently
 # (not "a.out")
 # Here, we will name our executable "hey_i_am_your_executable"
-GIVE_EXE_NAME	=	-o $(EXE_NAME)
+GIVE_EXE_NAME		=	-o $(EXE_NAME)
 
 # ------------------------------- SOURCE FILES --------------------------------
 
