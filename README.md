@@ -1,4 +1,13 @@
 # c_mini_challenges
+
+### Prerequisites:
+[- Install Windows Subshell Linux if learning on Windows](https://learn.microsoft.com/en-us/windows/wsl/install)
+[- Install Visual Studio Code](https://code.visualstudio.com/)
+[- Install C/C++ extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+[- Install Makefile tools extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
+[- Learn some Bash basics]
+[- Learn some Git basics]
+
 Tests to teach C basics
 
 September| October | November | December | January |
