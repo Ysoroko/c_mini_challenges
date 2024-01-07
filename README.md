@@ -11,7 +11,7 @@
 
 [- Install Makefile tools extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
 
-[- Learn some Bash basics](https://github.com/Ysoroko/c_mini_challenges/blob/main/Shell-functions.pdf)
+[- Learn some Shell basics](https://github.com/Ysoroko/c_mini_challenges/blob/main/Shell-functions.pdf)
 
 [- Learn some Git basics]
 
