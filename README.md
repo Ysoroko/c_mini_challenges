@@ -22,6 +22,12 @@
 4) This will create an executable. By default, it will be named "a.out". You can then run your code with the command ```./a.out``` if you are in the same directory
 5) Note: to test your code you will need a main function. If the exercice is asking for a *program*, include the main function in your code. If the exercice is asking for a *function*, do not include the main function in your code. (You can leave it commented)
 
+### First steps:
+1) Read the code in [intro.c file](https://github.com/Ysoroko/c_mini_challenges/blob/main/intro.c)
+2) Download it to your computer
+3) Compile it and run the executable
+4) Try to play with the code. Change the values, add lines of code, understand every line of code
+   
 September| October | November | December | January |
 -------------|-------------|-------------|-------------|-------------|
 [1) ft_square](https://github.com/Ysoroko/c_mini_challenges/blob/main/September/001_22_09_ft_square.MD) | [20) ft_descriptive_hundred](https://github.com/Ysoroko/c_mini_challenges/blob/main/October/020_01_10_ft_descriptive_hundred.MD) | [38) ft_write_backwards](https://github.com/Ysoroko/c_mini_challenges/blob/main/November/038_03_11_ft_write_backwards.MD) | [51) ft_files](https://github.com/Ysoroko/c_mini_challenges/blob/main/December/051_06_12_ft_files.MD) | [57) ft_strdup](https://github.com/Ysoroko/c_mini_challenges/blob/main/January/057_05_01_ft_strdup.MD) |
