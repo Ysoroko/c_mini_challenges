@@ -35,4 +35,5 @@ int main(void)
     printf("Testing with [%d]\t Result: [%d]\n", 0, ft_example(0));
     printf("Testing with [%d]\t Result: [%d]\n", 123, ft_example(123));
     printf("Testing with [%d]\t Result: [%d]\n", -456, ft_example(-456));
+    return (1);
 }
