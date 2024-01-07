@@ -19,7 +19,7 @@
 1) Create a file ending by ".c" (Example: example.c)
 2) Write your code inside
 3) When it's ready, compile it using the command ```gcc -Wall -Wextra -Werror example.c```
-4) This will create an executable. By default, it will be named "a.out". You can then run your code with the command "./a.out" if you are in the same directory
+4) This will create an executable. By default, it will be named "a.out". You can then run your code with the command ```./a.out``` if you are in the same directory
 5) Note: to test your code you will need a main function. If the exercice is asking for a *program*, include the main function in your code. If the exercice is asking for a *function*, do not include the main function in your code. (You can leave it commented)
 
 September| October | November | December | January |
